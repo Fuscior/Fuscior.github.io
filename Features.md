@@ -21,4 +21,5 @@
 		- [ ] Wifi
 		- [ ] BlueTooth
 	-  Battery life
- 
+ 	
+	testing for links in git [[test.html]]
