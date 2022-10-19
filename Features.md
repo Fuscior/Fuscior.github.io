@@ -22,4 +22,5 @@
 		- [ ] BlueTooth
 	-  Battery life
  	
-	testing for links in git [[test.html]]
+	testing for links in git [[https://fuscior.github.io/test]]
+	test metiod two [link test](/fuscior.github.io/test)
