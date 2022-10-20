@@ -23,3 +23,4 @@ Compoments as of 19/10/2022
 
 ![BOT_Page1](https://fuscior.github.io/Images/BOT_p1.PNG)
 ![BOT_page2](https://fuscior.github.io/Images/BOT_p2.PNG)
+![BOT_del](https://Fuscior.github.io/Images/BOT_Del.PNG)
