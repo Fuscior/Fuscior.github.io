@@ -1,4 +1,3 @@
 # Fuscior.github-io
-#tesfing fdsojfdsojfds
-#rfdscdsfsdFvdsFs
-#2123231432423
+#This is a Git-Hub-Pages deploment of Year3 project
+==in development==
