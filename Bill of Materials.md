@@ -24,4 +24,4 @@ Compoments as of 19/10/2022
 ![[P1_BillofMat.png]]
 ![[P2_BillofMat.png]]
 ![[BillOfMeterals.png]]
-![test images]( Fuscior.github.io/Images/BOT_p2.PNG )
+![test images](https://fuscior.github.io/Images/BOT_p2.PNG)
