@@ -4,7 +4,7 @@ Compoments as of 19/10/2022
 
 | Componet | SKU(Code) | Suplier |Quanity | Ex-Vat | VAT | Total | Testing | Used in V(final) Y/N |
 |----------|-----------|---------|--------|-----|-------|---------|----------|-------|
-| [KeyPad](https://thepihut.com/products/membrane-3x4-matrix-keypad-extras) | [[ADA419 Data Sheet\|ADA419]] | x1|  | | €3.84 |  
+| [KeyPad](https://thepihut.com/products/membrane-3x4-matrix-keypad-extras) | [[ADA419 Data Sheet\|ADA419]] | PiHut| x1|  | | €3.84 |  
 | [LCD 20x4](https://thepihut.com/products/standard-lcd-20x4-extras) | [[ADA198 DataSheet\|ADA198]] | x1 | | |€17.59 | 
 | [Heavy Vibration](https://thepihut.com/products/slow-vibration-sensor-switch-hard-to-trigger) | ADA1767 | x1 | | | €0.96| comparison
 | [Light Vibration](https://thepihut.com/products/slow-vibration-sensor-switch-hard-to-trigger) | 103557 | x1 | | | €0.77 |comparison
