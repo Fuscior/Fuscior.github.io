@@ -17,9 +17,9 @@ Compoments as of 19/10/2022
 | [ESP32 S2](https://thepihut.com/products/esp32-s2-saola-1m-development-board) |  DFR0812 | PiHut| x1 | | | €13.36| Development
 | [ESP 32 Cam](https://thepihut.com/products/esp32-cam-development-board) | DFR0602 | PiHut| x1 | | | €9.71| Testing
 | [ESP01](https://thepihut.com/products/esp-01-wifi-serial-transceiver-module-esp8266) | 104731 | PiHut| x1 | | | €2.88 | Testing
-|subtotal|||||€111.30
-| shipping| | | | | €24.00
-|Total| | | | | €135.30
+|subtotal||||||€111.30
+| shipping| | | | | | €24.00
+|Total| | | | | | €135.30
 
 
 
