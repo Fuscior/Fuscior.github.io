@@ -12,7 +12,7 @@ This GitPages is designed with the goal to track and doument my process through 
 My implamentation of GitPages is possible through using [markdown](/https://daringfireball.net/projects/markdown/syntax) code with some added [HTML ](/https://www.freecodecamp.org/news/html-and-html5-example/) in [obsidion](/https://obsidian.md/) allowing for notes and progess to be easly implamented to GitPages. 
 
 <html>
-  <body background="https://assets.digitalocean.com/blog/static/hacktoberfest-is-back/hero.png">
+  <body background="https://fuscior.github.io/Images/Black_background.PNG">
   </body>
 </html>
 
